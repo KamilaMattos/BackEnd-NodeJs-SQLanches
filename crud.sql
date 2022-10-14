@@ -1,4 +1,3 @@
--- Aqui você deve colocar os códigos SQL referentes às
 -- Simulações de um CRUD
 
 -- Criação
