@@ -1,4 +1,3 @@
--- Aqui você deve colocar os códigos SQL referentes às
 -- Seleções de dados
 
 -- 1)
